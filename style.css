@@ -41,8 +41,9 @@ a {
 }
 
 #details {
-  width: 100%;
   display: block;
   text-align: center;
   background-color: red;
+  float: left;
+  width: 25%;
 }
