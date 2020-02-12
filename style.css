@@ -42,7 +42,7 @@ a {
 
 #details {
   width: 100%;
-  display: inline;
+  display: inline-block;
   text-align: center;
   background-color: red;
 }
